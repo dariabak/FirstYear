@@ -1,0 +1,47 @@
+.form {
+	width: 50%;
+	height: 40%;
+	padding: 10px;
+	padding-bottom: 30px;
+	margin: 0px 0px 0px 10px;
+	background-color: #DCDCDC;
+	border: 1px solid #C0C0C0;
+}
+
+h1 {
+	border-bottom: 1px solid #000000;
+}
+
+h3 {
+	margin-left: 30px;
+	margin-right: 25px;
+	float: left;
+}
+
+.myImage {
+	max-height: 60px;
+	max-width: 90px;
+}
+
+label {
+	margin: 20px;
+}
+
+input {
+	margin: 0px 10px 10px 10px;
+}
+
+.submit {
+	margin: 10px 40px 40px 100px;
+	background-color: red;
+	border: 1px solid black;
+	color: white;
+}
+
+p {
+	margin-left: 100px;
+}
+
+label {
+	margin-left: 10px;
+}
